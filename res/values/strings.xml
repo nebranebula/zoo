@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">isikawazoo2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">isikawazoo2</string>
+    <string name="tap_instructions">Tap or long press on the map</string>
+
+</resources>
